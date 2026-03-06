@@ -3,7 +3,7 @@
 
 [game](https://github.com/pellizzola-brothers/game)
 [studio](https://github.com/pellizzola-brothers/studio)
-[website](https://github.com/pellizzola-brothers/game)
+[website](https://github.com/pellizzola-brothers/website)
 
 
 _⎼⎼ Donut God, remembering airport security._
